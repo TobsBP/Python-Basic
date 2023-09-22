@@ -1,0 +1,5 @@
+nome = str(input('Digite seu nome: '))
+nome_sem = nome.replace(' ', '')
+print('Seu nome com todas as letras maiúsculas:', nome.upper())
+print('Seu nome com todas as letras minúsculas:', nome.lower())
+print('Seu nome tem', len(nome_sem) , 'letras.')

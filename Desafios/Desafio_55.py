@@ -10,4 +10,4 @@ for i in range(0,5):
         less_weight = weight
 
 print(more_wieght)
-print(less_weight)
+print(less_weight)  
